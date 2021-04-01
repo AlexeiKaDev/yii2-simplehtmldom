@@ -19,8 +19,8 @@
   ],
   "authors": [
     {
-      "name": "darkdrim",
-      "email": "drimd@ukr.net"
+      "name": "alexeikadev",
+      "email": "kusocek@gmail.com"
     }
   ],
   "require": {
@@ -28,7 +28,7 @@
   },
   "autoload": {
 	  "psr-4": {
-		  "darkdrim\\simplehtmldom\\": ""
+		  "alexeikadev\\simplehtmldom\\": ""
       }
    }
 }

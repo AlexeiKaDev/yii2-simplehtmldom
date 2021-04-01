@@ -1,5 +1,5 @@
 {
-  "name": "darkdrim/yii2-simplehtmldom",
+  "name": "alexeikaDev/yii2-simplehtmldom",
   "description": "Simple HTML Dom parser for Yii2 + cURL",
   "homepage": "https://bitbucket.org/DarkDrim/yii2-simplehtmldom",
   "type": "yii2-extension",
